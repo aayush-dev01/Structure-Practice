@@ -1,0 +1,9 @@
+# Compiled C++ files
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.out
+
+# Visual Studio
+.vs/
